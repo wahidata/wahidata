@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Wahid Rahman
+# Hi, I’m Wahid Rahman.
 
 🎓 MSc Computer Science (AI) student at the University of York  
 📍 Based in Cardiff, UK  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## My Tech Stack
 
 - **Languages:** Python, SQL  
 - **Tools:** Excel, Power BI, Looker Studio, Tableau  
@@ -15,27 +15,21 @@
 
 ---
 
-## 💼 Projects
+## Projects
 
-- 🧁 **Customer Survey Analysis:** SQL + Looker dashboard project to analyze café trends  
-- 🏨 **Hotel Booking CLI App:** Modular Python system to manage guest reservations and room analytics  
-- 🧼 **Modular Data Cleaner:** Python tool for reusable, efficient data wrangling
+- **Customer Survey Analysis:** SQL + Looker dashboard project to analyze café trends  
+- **Hotel Booking CLI App:** Modular Python system to manage guest reservations and room analytics  
+- **Modular Data Cleaner:** Python tool for reusable, efficient data wrangling
 
 📎 [View all repositories here »](https://github.com/wahidata?tab=repositories)
 
 ---
 
-## 🚀 Goals
+## My Goals
 
 - Secure a Data Analyst or Insight Analyst role in 2025  
 - Build more data-driven tools and publish open-source contributions  
 - Share knowledge, mentor others, and support entry-level professionals in tech
-
----
-
-## ☕ Status
-
-**“Fueled by SQL and strong coffee.”**
 
 ---
 
