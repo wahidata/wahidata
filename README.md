@@ -17,7 +17,7 @@
 
 ## Projects
 
-- **Customer Survey Analysis:** SQL + Looker dashboard project to analyze café trends  
+- **Customer Survey Analysis:** SQL + Looker dashboard project to analyse cafe trends  
 - **Hotel Booking CLI App:** Modular Python system to manage guest reservations and room analytics  
 - **Modular Data Cleaner:** Python tool for reusable, efficient data wrangling
 
