@@ -41,5 +41,5 @@
 
 ### Find me here at:
 
-- [LinkedIn](https://linkedin.com/in/your-link)
+- [LinkedIn](hhtps://linkedin.com/in/wahidrahmanli)
 - Email: wahid.rahman@hotmail.com
