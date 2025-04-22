@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I’m Wahid Rahman
 
-<!--
-**wahidata/wahidata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science (AI) student at the University of York  
+📍 Based in Cardiff, UK  
+📊 Aspiring Data Analyst focused on solving real-world problems through data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Tools:** Excel, Power BI, Looker Studio, Tableau  
+- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Other:** Jupyter Notebooks, SQLite, GitHub
+
+---
+
+## 💼 Projects
+
+- 🧁 **Customer Survey Analysis:** SQL + Looker dashboard project to analyze café trends  
+- 🏨 **Hotel Booking CLI App:** Modular Python system to manage guest reservations and room analytics  
+- 🧼 **Modular Data Cleaner:** Python tool for reusable, efficient data wrangling
+
+📎 [View all repositories here »](https://github.com/wahidata?tab=repositories)
+
+---
+
+## 🚀 Goals
+
+- Secure a Data Analyst or Insight Analyst role in 2025  
+- Build more data-driven tools and publish open-source contributions  
+- Share knowledge, mentor others, and support entry-level professionals in tech
+
+---
+
+## ☕ Status
+
+**“Fueled by SQL and strong coffee.”**
+
+---
+
+### Find me here at:
+
+- [LinkedIn](https://linkedin.com/in/your-link)
+- Email: wahid.rahman@hotmail.com
